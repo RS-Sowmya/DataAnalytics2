@@ -67,7 +67,7 @@ Since instructors teach multiple batches:
 * Low-performing instructors are clearly distinguishable
 * Medium vs High performers require more contextual features
 
-## 💡 Business Impact
+## Business Impact
 * Early detection of low-performing instructors
 * Personalized instructor training programs
 * Improved course design and student retention
