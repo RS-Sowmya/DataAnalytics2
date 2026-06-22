@@ -84,7 +84,7 @@ Since instructors teach multiple batches:
 * Scikit-learn
 * Matplotlib, Seaborn
 
-## 📌 Future Improvements
+## Future Improvements
 * Add SHAP for explainability
 * Try XGBoost / LightGBM
 * Include course difficulty & student demographics
